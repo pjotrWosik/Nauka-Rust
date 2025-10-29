@@ -17,7 +17,7 @@ Allows performing simple mathematical operations and provides a choice of:
 third project for learning purpuse were made in 29.10.2025
 Rust 🦀
 
-I added loop and break
+I added loop and break.
 Allows performing simple mathematical operations and provides a choice of:
  - addition
  - subtraction
