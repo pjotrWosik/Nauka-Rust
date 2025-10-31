@@ -3,24 +3,23 @@ Rust 🦀
 
 Allows performing simple mathematical operations:
 
-update
  - addition
  - subtraction
 
-update
+update - 28.10.2025
  - addition
  - subtraction
  - multiplication
  - division
 
-update
+update - 29.10.2025
  - I added loop and break.
  - addition
  - subtraction
  - multiplication
  - division
 
-update
+update - 31.10.2025
  - added exponentiation
  - added square root (only one number used)
  - added operation history
