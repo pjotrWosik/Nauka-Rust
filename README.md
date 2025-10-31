@@ -14,8 +14,7 @@ update
  - division
 
 update
-I added loop and break.
-
+ - I added loop and break.
  - addition
  - subtraction
  - multiplication
@@ -25,4 +24,4 @@ update
  - added exponentiation
  - added square root (only one number used)
  - added operation history
-(I hawe no idea how to delete old files)
+ - (I hawe no idea how to delete old files)
