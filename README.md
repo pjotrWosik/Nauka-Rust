@@ -16,7 +16,6 @@ update
 update
 I added loop and break.
 
-update
  - addition
  - subtraction
  - multiplication
