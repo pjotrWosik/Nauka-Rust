@@ -25,3 +25,4 @@ update
  - added exponentiation
  - added square root (only one number used)
  - added operation history
+(I hawe no idea how to delete old files)
