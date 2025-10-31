@@ -2,24 +2,27 @@ first project for lerning purpuse were made in 27.10.2025
 Rust 🦀
 
 Allows performing simple mathematical operations:
+
+update
  - addition
  - subtraction
 
-second project for learning purpuse were made in 29.10.2025
-Rust 🦀
-
-Allows performing simple mathematical operations and provides a choice of:
+update
  - addition
  - subtraction
  - multiplication
  - division
 
-third project for learning purpuse were made in 29.10.2025
-Rust 🦀
-
+update
 I added loop and break.
-Allows performing simple mathematical operations and provides a choice of:
+
+update
  - addition
  - subtraction
  - multiplication
  - division
+
+update
+ - added exponentiation
+ - added square root (only one number used)
+ - added operation history
