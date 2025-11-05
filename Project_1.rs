@@ -49,9 +49,15 @@ fn main() {
             historia.push(format!("{} * {} = {}", liczba1, liczba2, liczba3));
         }
         else if wybur.trim() == "4" {
-            let liczba3 = liczba1 / liczba2;
-            println!("wynik dzielenia to {} / {} = {}", liczba1, liczba2, liczba3);
-            historia.push(format!("{} / {} = {}", liczba1, liczba2, liczba3));
+            if liczba2 == 0.0 {
+                println!("Niemorzna dzielic przez zero");
+                historia.push(format!("Blad obliczania"));
+            }
+            else {
+                let liczba3 = liczba1 / liczba2;
+                println!("wynik dzielenia to {} / {} = {}", liczba1, liczba2, liczba3);
+                historia.push(format!("{} / {} = {}", liczba1, liczba2, liczba3));
+            }
         }
         else if wybur.trim() == "5" {
             let liczba3 = liczba1.powf(liczba2);
