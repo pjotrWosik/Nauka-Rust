@@ -29,4 +29,4 @@ Allows performing simple mathematical operations:
 ### update - 05.11.2025
  - Added blocking when trying to subtract by 0
 
-**Status:** Project_1 completed
+✅**Status:** Project_1 completed
