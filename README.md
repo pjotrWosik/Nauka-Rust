@@ -1,5 +1,5 @@
-first project for lerning purpuse were made in 27.10.2025
 Rust 🦀
+**first project** for lerning purpuse were made in: 27.10.2025
 
 **Project goal:** Create an advanced calculator capable of performing various mathematical operations, gradually adding new features with each update.
 
@@ -30,3 +30,9 @@ Allows performing simple mathematical operations:
  - Added blocking when trying to subtract by 0
 
 ✅**Status:** Project_1 completed
+
+Rust 🦀
+**second project** for lerning purpuse were made in:
+
+**Project goal:** Create a simple terminal-based game where the program randomly selects a number, and the player has to guess it.  
+The goal of this project is to practice logic, user interaction, and random number generation
