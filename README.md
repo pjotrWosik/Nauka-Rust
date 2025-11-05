@@ -23,4 +23,6 @@ update - 31.10.2025
  - added exponentiation
  - added square root (only one number used)
  - added operation history
- - (I hawe no idea how to delete old files)
+
+update - 05.11.2025
+ - Added blocking when trying to subtract by 0
