@@ -36,3 +36,10 @@ Rust 🦀
 
 **Project goal:** Create a simple terminal-based game where the program randomly selects a number, and the player has to guess it.  
 The goal of this project is to practice logic, user interaction, and random number generation
+
+Allows performing simple guesing:
+
+ - only one number to guess
+ - first time using functions "fn"
+
+   
