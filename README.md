@@ -49,3 +49,8 @@ Allows performing simple guesing:
  - added try mechanic
 
 ✅**Status:** Project_2 completed
+
+Rust 🦀 third project for lerning purpuse were made in:
+**Project goal:** Create a simple **text-based adventure game** in the terminal – “Escape from the Dungeon”.
+The player moves between rooms, picks up items, uses them to solve puzzles and finally escapes.
+The goal of this project is to practice **structs, enums, ownership, HashMap, modules, input parsing and game loop**.
