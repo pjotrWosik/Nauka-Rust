@@ -42,4 +42,10 @@ Allows performing simple guesing:
  - only one number to guess
  - first time using functions "fn"
 
-   
+   ### update - 16.11.2025
+ - added randomizing number
+ - added new fn asking()
+ - maked the game replayable
+ - added try mechanic
+
+✅**Status:** Project_2 completed
