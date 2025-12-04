@@ -53,6 +53,11 @@ Allows performing simple guesing:
 ### Rust 🦀 
 **third project** for lerning purpuse were made in:
 
-**Project goal:** Create a simple **text-based adventure game** in the terminal – “Escape from the Dungeon”.
-The player moves between rooms, picks up items, uses them to solve puzzles and finally escapes.
-The goal of this project is to practice **structs, enums, ownership, HashMap, modules, input parsing and game loop**.
+**Project goal:** A clean, beautiful, and fully functional terminal-based unit converter written in pure Rust – perfect as a learning project and for everyday use.
+
+### update - 04.12.2025
+ - added lists "objetosci", "waga", "dlugosci"
+ - first time trying to use match
+ - (Not Wosking Yet)
+
+✅**Status:** Project_2 in work
